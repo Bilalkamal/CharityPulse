@@ -29,3 +29,6 @@ pids
 
 # Specific file to ignore
 demo.ipynb
+
+# Ignore testing folder and all its content
+testing/
