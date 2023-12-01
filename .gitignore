@@ -1,0 +1,31 @@
+# Ignore __pycache__ directories
+__pycache__/
+
+# Logs
+logs
+*.log
+
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+
+
+# IDE / Editors
+.vscode/
+
+
+
+# dotenv environment variable files
+.env
+.env.test
+
+
+# Mac files
+.DS_Store
+
+# Specific file to ignore
+demo.ipynb
