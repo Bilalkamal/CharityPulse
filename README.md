@@ -25,27 +25,10 @@ At CharityPulse, we are deeply committed to the ethical use and privacy of data.
 
 ## Technologies Used
 
-- **Frontend**: To be determined
-- **Backend**: To be determined
-- **Database**: To be determined
-- **APIs**: To be determined
-- **Other Libraries and Tools**: To be determined
-
-## Getting Started
-
-To be added soon...
-
-## Contributing
-
-To be added soon...
-
-## Contact
-
-To be added soon...
-
-## Acknowledgements
-
-To be added soon...
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Flask
+- **APIs**: OpenAI
+- **Other Libraries and Tools**: Pandas, JSON
 
 ---
 

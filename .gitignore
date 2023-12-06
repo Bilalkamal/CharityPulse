@@ -23,6 +23,8 @@ pids
 .env
 .env.test
 
+# Ignore all .env files
+**/.env
 
 # Mac files
 .DS_Store
@@ -32,3 +34,4 @@ demo.ipynb
 
 # Ignore testing folder and all its content
 testing/
+
